@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Roger Counihan Blog"
+theme = "hugo-theme-minos"
+author = "Roger Counihan"
+
+[params]
+  smartToc=true
+  sectionPagesMenu = "main"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about hugo"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Supply Chain"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/posts/supplychain/"
+    weight = -100
+
+  [[menu.main]]
+    name = "Travel"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/posts/travel/"
+    weight = -100
