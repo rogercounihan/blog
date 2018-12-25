@@ -10,7 +10,7 @@ tags: ["Utah", "Backpacking"]
 
 ### Day 1 Travel and Start
 
-### Day 2 Morning  dfsd
+### Day 2 Morning
 
 Julian slept in on our first morning (the first of many accomodations) - but that afforded me some time to take some sunrise pictures.  I think at this point I immediately recognized that I should have brought my tripod.  And cut down on the number of olives I carried.
 
