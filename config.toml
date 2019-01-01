@@ -13,8 +13,7 @@ author = "Roger Counihan"
 
   [[menu.main]]
     identifier = "about"
-    name = "about hugo"
-    pre = "<i class='fa fa-heart'></i>"
+    name = "About"
     url = "/about/"
     weight = -110
 
@@ -23,11 +22,11 @@ author = "Roger Counihan"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/posts/supplychain/"
-    weight = -100
+    weight = -120
 
   [[menu.main]]
     name = "Travel"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/posts/travel/"
-    weight = -100
+    weight = -130

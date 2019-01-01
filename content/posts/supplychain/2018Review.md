@@ -1,7 +1,7 @@
 ---
 title: "2018 Review"
 date: 2018-12-20T22:17:31-05:00
-slug: "coyotegulch"
+slug: "2018review"
 draft: true
 categories: 
 - Supply Chain
