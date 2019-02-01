@@ -2,7 +2,7 @@
 title: "Coyote Gulch 3 Day Backpack"
 date: 2018-12-18
 slug: "coyotegulch"
-draft: true
+draft: false
 categories: ["Travel", "Trip Report"]
 tags: ["Utah", "Backpacking"]
 featuredImage: "img/DSC_8736.jpg"
@@ -16,7 +16,8 @@ resources:
 - src: images/DSC_8763.jpg
   name: DSC_8763
 
-
+- src: video/approach.mp4
+  name: approach
 
 ---
 
@@ -45,26 +46,36 @@ It turned out that not knowing, that preparing for the unknown, contributed to c
 
 We flew into Vegas, and landed on Thursday morning approximately 10am.  Plans went into flux quickly when we realized that Vegas is PST, and our destination was Mountain time. This added a virtual hour to our drive.  Our day was tight, as we were fighting an early sunset.
 
-
 We rented a Nissan Frontier, a basic compact pickup.  It wasn't ideal for the 5 hours of highway we had, but it was ideal for the final 45 minutes from Escalante to the trailhead.  {LOOKUP MAP}.  On the way, we stopped for gas, sandwiches, and water.  Otherwise, all of our food and other gear {LINK TO GEAR LIST} we brought in from home.
 
 Knowing the sunset was early, we drove down the sand road at considerable speed, and rushed to the trailhead.  
 
+<figure align=center>
+{{< quickvideo video="approach" >}}
+</figure>
+
+After getting organized quickly, we walked a mile down the trail onto the desert, and setup camp.  As complete darkness came down, we warmed up some dinner.  Darkness was short lived however, it was a full rise, and the moon-rise was dramatic.
+
+{NIGHT OF PICTURES}
+
 ### Day 2 Morning
 
-Julian slept in on our first morning (the first of many accomodations) - but that afforded me some time to take some sunrise pictures.  I think at this point I immediately recognized that I should have brought my tripod.  And cut down on the number of olives I carried.
+While Julian slept in on Friday morning, attempting to take some sunrise pictures.  I think at this point I immediately recognized that I should have brought my tripod.  Trying to get perspective from the ground,using a Gorillapod, was impossible.  I suppose they could work in a world where there are conveniently placed trees on a regular basis,but in a rock/tree filled desert, I was really missing out on some great long exposure shots with reflections and dramatic lighting.
 
-{{< lbmultiimg imggroup="DSC" title="Tent Image" centered="yes" >}}
+{{< lbmultiimg imggroup="DSC" title="Tent Image" centered="no" width="200px">}}
 
-<script>
-    (function(){
-        "use strict";
-        function greetMe(yourName) {
-            alert("Hello " + yourName);
-        }
-    
-        
-    })();    
-</script>
+We boiled up some coffee, and headed to find the "Crack-In-The-Wall" descent into the Escalante River canyon.  Walking up to the edge was  intimidating, but getting down was a simply shimmy behind a rock wall, and lowering the packs down the side.  The view of the canyon was incredible though, and gave us our first idea of the scenery we were in for while we hiked.
 
-{{< youtube 6j5M7L3LEyg >}}
+{CRACK IN THE WALL PICTURES}
+
+Beyond Crack-In-The-Wall, it was a sandy descent.  We forked to the north to get the exit of Coyote Gulch onto the Escalante river.  At the bottom of Coyote Gulch, we headed East.  Our original plan was to find the Escalante river, head north, then make a loop by climbing up over King Mesa to the start of Coyote Gulch.
+
+{DESCENT TO THE RIVER}
+
+We had to adapt, as we were unable to navigate the river or find any trail from Coyote Gulch to the confluence with the Escalante.  Other references seemed to show a route crossing the Escalante, but it may have been by a different route from Crack in the Wall directly to the Escalante river. 
+
+### Day 2 Coyote Gulch: Escalante River to XX Side Canyon
+
+After a replanning session, we headed west, up Coyote Gulch.  Once that decision was made, the hike was simple - follow the river.  Most of the time there is a primitive trail along the river, but 30%-40% of the time we were hiking directly in the river.
+
+And the hiking was incredible.  500 foot sheer red walls on either side, often hanging over us.  The canyon floor was a third of that, making for a very up-close and direct experience.  The bottom of the canyon was lush, with grasses, trees, and flowers.  
