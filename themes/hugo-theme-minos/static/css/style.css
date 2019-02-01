@@ -489,7 +489,6 @@ a.article-title:hover,
 .article-entry video {
   max-width: 100%;
   height: auto;
-  display: block;
   margin: auto;
 }
 .article-entry iframe {
@@ -1091,4 +1090,13 @@ pre .php .xml {
   font-size: 16px;
   font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', serif;
   text-shadow: 1px 3px 3px rgba(0,0,0,0.5);
+}
+
+figure {
+  margin: 0;
+}
+
+.image-grid {
+  margin: 0;
+  display: grid; 
 }

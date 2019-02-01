@@ -1,0 +1,14 @@
+{{ $video := $.Get "video" }}
+
+{{ $scratch := newScratch }}
+{{ $scratch.Add "video" "*" }}
+{{ $scratch.Add "video" $video }}
+{{ $scratch.Add "video" "*" }}
+
+{{ $videoresource := $.Page.Resources.GetMatch ($scratch.Get "video") }}
+
+
+<video muted loop autoplay>
+        <source src="{{ $videoresource.RelPermalink }}" type="video/mp4">
+        Your browser does not support video playback via HTML5.
+</video>

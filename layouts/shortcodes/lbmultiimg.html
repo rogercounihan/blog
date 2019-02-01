@@ -9,27 +9,22 @@
 
 {{ $imgarray := $.Page.Resources.Match ($scratch.Get "imggroup") }}
 
-{{ if .Get "centered" }} <div class="center"> {{end}}
 
     
 {{ $pageurl := .Page.RelPermalink }}
 
 
-<figure class="lb {{.Get "class"}}">
-    
-    {{ range $img := $imgarray }}
+    <div class="lb image-grid" style="grid-template-columns: repeat({{len $imgarray}}, 1fr);">
+        {{ range $img := $imgarray }}
 
-        {{ $scratch.Set "thumb" $pageurl }}
-        {{ $scratch.Add "thumb" "/images/" }}
-        {{ $scratch.Add "thumb" $img.Name }}
-        {{ $scratch.Add "thumb" "-thumb.jpg"}}   <!-- Make work with dynamic file types-->
+            {{ $scratch.Set "thumb" $pageurl }}
+            {{ $scratch.Add "thumb" "/images/" }}
+            {{ $scratch.Add "thumb" $img.Name }}
+            {{ $scratch.Add "thumb" "-thumb.jpg"}}   <!-- Make work with dynamic file types-->
 
 
-        <a href="{{ $img.RelPermalink }}" data-lightbox="{{ $imggroup }}" data-title="{{ $grouptitle }}" class="lb">
-            <img class="lb" src="{{ $scratch.Get "thumb" }}" alt="{{ $grouptitle }}" width="{{ $width }}" />
-        </a>
+            <a href="{{ $img.RelPermalink }}" data-lightbox="{{ $imggroup }}" data-title="{{ $grouptitle }}" class="lb"><img class="lb" src="{{ $scratch.Get "thumb" }}" alt="{{ $grouptitle }}" /></a>
 
-    {{ end }}
-    
-</figure>
-{{ if .Get "centered" }} </div>{{end}}
+        {{ end }}
+    </div>  
+
