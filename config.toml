@@ -11,11 +11,7 @@ author = "Roger Counihan"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = -110
+
 
   [[menu.main]]
     name = "Supply Chain"

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Roger Counihan Blog</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Roger Counihan Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Travel</title>
+      <link>http://example.org/categories/travel/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trip Report</title>
+      <link>http://example.org/categories/trip-report/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/trip-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,4 +6,4 @@ draft: true
 
 ## About Roger
 
-Test
+I live in Atlanta, husband to Melissa, and father to Francis and Avery 
