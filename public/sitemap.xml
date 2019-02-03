@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/travel/coyotegulch/coyotegulch/</loc>
+    <loc>http://example.org/posts/travel/coyotegulch/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2018-11-25T21:42:55-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/supplychain/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/travel/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,7 +34,6 @@
   
   <url>
     <loc>http://example.org/posts/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
