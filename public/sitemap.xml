@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/posts/travel/jackson/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/posts/travel/coyotegulch/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
@@ -18,7 +23,7 @@
   
   <url>
     <loc>http://example.org/posts/travel/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,7 +44,13 @@
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/skiing/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,19 +62,25 @@
   
   <url>
     <loc>http://example.org/categories/travel/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/categories/trip-report/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/utah/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/wyoming/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
