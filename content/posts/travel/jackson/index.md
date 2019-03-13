@@ -25,7 +25,7 @@ Later that evening, I went back and out explored the Gros-Ventre road.  A bit ea
 
 I drove home in the dark, needing to get unpacked and set up for a long first day of shooting and riding.
 
-### First Full Day
+### First Full Day - Sunday
 
 #### Sunrise Attempt #1
 
@@ -49,8 +49,35 @@ After grabbing a late afternoon nap, I rushed to the cool Jackson Camera store, 
 
 I headed back up Gros Ventre road, and knocked out a few obligatory shots at a long distance to see what this thing could do.  The peaks started to show themselves as well, which really added to the excitement.  The Teton range is truely incredible.  
 
-While I heard reports of big horn sheep, moose, etc... I didn't spot any that evening.  It really would have been fantastic to see last nights coyotes with this evenings zoom range.  The warm spring past Kelly however, really provided an epic mist with geese and others landing in the fog.
+While I heard reports of big horn sheep, moose, etc... I didn't spot any that evening.  It really would have been fantastic to see last nights coyotes with this evenings zoom range.  The warm spring past Kelly however, really provided an epic mist with geese and others landing in the fog.  While there, I met a couple other photographers enjoying the clear view of the mountains and the color that evening.
 
 After helping a snowmobiler fix their trailer, we turned around caught a wonderful sunrise over the peaks with a farmhouse and lake in the foreground.
 
+### Second Full Day - Monday
+
+#### Sunrise Attempt #2
+
+Another early start, driving up to Grand Teton National Park, I aimed for the iconic Snake River overlook.  At first, my access to the overlook was blocked by bison and some protective park rangers!  After some creative driving, I got into the overlook, and got to the mountains as blue light started to open up the Teton range.
+
+While there were not incredible clouds, the alpen-glow and scenery was still incredible.  I bounced between different focal lengths and compositions, playing with different elements to see what I thought came together best.  Without clouds, long exposure didn't seem to make sense, but instead I tried to capture the mist in the trees and the reflection on the river.  
+
+After this successful morning, it was time for a great day on the slopes.  I again found my best run after a headwall hike, this time walking past rendezvous bowl, and heading to the Casper Chutes - which turned out to be very accessible.  While the slopes weren't fresh powder soft, the conditions were still very steep, and I found plenty of fun run.
+
+#### Evening Day 2
+
+I did call it a day a bit early, as I was pretty drained from the early starts the past few days.  After a nap, it was back out on the road.  As it was my last chance with the long lens, I was committed to finding moose.
+
+And I did!  Nothing epic, but moose were in the trees, in the bushes, and by the river.  This was up the same road I had explored the previous evening.  Sunset was also a bit of a non-event after the mornings fireworks.  I attempted some full moon photography once the sun was fully down - testing the high - ISO capabilities of the D750.
+
+### Third Full Day - Tuesday
+
+#### Skiing
+
+OK - I skipped sunrise this morning.  I wanted a full day of skiing, and the early starts had taken it out of me.  I also needed to make a rental car switch for logistical purposes.
+
+The skiing was great again.  Before lunch, I did a different side of the headwall, and rode all the way from top to bottom.  As I approached the base area, two moose jumped out of the trees, and ran down the trail.  Also, as a final hurrah after lunch, I found more fresh snow on the far north side of the mountain that I had not explored over the past few days.
+
+#### Evening Photos
+
+I headed off in a different direction, scouting out the road that I'd be driving out the following morning.  There were a number of pullouts, but they were plowed in and it was impossible to pull off the road.  I reached a snowmobile track, and tried to take some shots of a frozen river or a dramatic sunset, but didn't find anything.
 
