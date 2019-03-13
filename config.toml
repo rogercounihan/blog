@@ -1,8 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = ""
 languageCode = "en-us"
 title = "Roger Counihan Blog"
 theme = "hugo-theme-minos"
 author = "Roger Counihan"
+min_version = 0.43
 
 [params]
   smartToc=true
