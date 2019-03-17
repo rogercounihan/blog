@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wyoming on Roger Counihan Blog</title>
-    <link>http://example.org/tags/wyoming/</link>
+    <link>/tags/wyoming/</link>
     <description>Recent content in Wyoming on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/wyoming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/wyoming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jackson Hole Photo &amp; Skiing</title>
-      <link>http://example.org/posts/travel/jackson/</link>
+      <title>Jackson Hole Photography &amp; Snowboarding</title>
+      <link>/posts/travel/jackson/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/travel/jackson/</guid>
-      <description>Introduction I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started scouting locations.</description>
+      <guid>/posts/travel/jackson/</guid>
+      <description>Introduction After complaining enough about not getting a quick west coast ski trip in, Melissa offered to let me take a few days to myself in Jackson Hole prior to meeting with the family in Steamboat for our usual winter family ski trip.
+Arrival &amp;amp; Scouting I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started scouting locations.</description>
     </item>
     
   </channel>

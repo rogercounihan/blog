@@ -2,30 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Roger Counihan Blog</title>
-    <link>http://example.org/categories/travel/</link>
+    <link>/categories/travel/</link>
     <description>Recent content in Travel on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jackson Hole Photo &amp; Skiing</title>
-      <link>http://example.org/posts/travel/jackson/</link>
+      <title>Jackson Hole Photography &amp; Snowboarding</title>
+      <link>/posts/travel/jackson/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/travel/jackson/</guid>
-      <description>Introduction I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started scouting locations.</description>
+      <guid>/posts/travel/jackson/</guid>
+      <description>Introduction After complaining enough about not getting a quick west coast ski trip in, Melissa offered to let me take a few days to myself in Jackson Hole prior to meeting with the family in Steamboat for our usual winter family ski trip.
+Arrival &amp;amp; Scouting I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started scouting locations.</description>
     </item>
     
     <item>
       <title>Coyote Gulch 3 Day Backpack</title>
-      <link>http://example.org/posts/travel/coyotegulch/</link>
+      <link>/posts/travel/coyotegulch/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/travel/coyotegulch/</guid>
+      <guid>/posts/travel/coyotegulch/</guid>
       <description>Introduction In October 2018, my brother Julian Counihan and I did a quick 3 day hike in Coyote Gulch, within the Grand Staircase National Monument, outside Escalante, UT. Building a trip plan, developing and finding a route, was all incredibly complicated, so I wanted to put forth a bit of a trip log, and use it as an excuse to display my photographs.
 My friends in Atlanta had introduced me to the concept of a ‘Dadchelor’ party - celebrating the end of free time and flexibility that comes with new responsibilities of a newborn.</description>
     </item>

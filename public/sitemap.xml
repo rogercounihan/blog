@@ -3,83 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/travel/jackson/</loc>
+    <loc>/posts/travel/jackson/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/travel/coyotegulch/</loc>
+    <loc>/posts/supplychain/2018review/</loc>
+    <lastmod>2018-12-20T22:17:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/travel/coyotegulch/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-11-25T21:42:55-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/supplychain/</loc>
+    <loc>/posts/supplychain/</loc>
+    <lastmod>2018-12-20T22:17:31-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/travel/</loc>
+    <loc>/posts/travel/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/backpacking/</loc>
+    <loc>/tags/backpacking/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/skiing/</loc>
+    <loc>/tags/skiing/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/categories/supply-chain/</loc>
+    <lastmod>2018-12-20T22:17:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/travel/</loc>
+    <loc>/categories/travel/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/trip-report/</loc>
+    <loc>/categories/trip-report/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/utah/</loc>
+    <loc>/tags/utah/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/wyoming/</loc>
+    <loc>/tags/wyoming/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
