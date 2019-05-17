@@ -41,13 +41,13 @@ resources:
 
 ### Introduction
 
-In October 2018, my brother Julian Counihan and I did a quick 3 day hike in Coyote Gulch, within the Grand Staircase National Monument, outside Escalante, UT.  Building a trip plan, developing and finding a route, was all incredibly complicated, so I wanted to put forth a bit of a trip log, and use it as an excuse to display my photographs.
+In October 2018, my brother Julian Counihan and I did a quick 3 day hike in Coyote Gulch, within the Grand Staircase National Monument, outside Escalante, UT.  Building a trip plan, developing and finding a route, was harder then it should have been, so I wanted to put together a trip log, and use it as an excuse to show some photographs.
 
 
-My friends in Atlanta had introduced me to the concept of a ‘Dadchelor’ party - celebrating the end of free time and flexibility that comes with new responsibilities of a newborn.  Julian’s son’s due date was November 28th, so we were barely getting this trip in.
+My friends in Atlanta had introduced me to the concept of a ‘Dadchelor’ party.  Julian’s son’s due date was November 28th, so we were barely getting this trip in.
 
 
-Our initial target was Zion NP, but based on concerns about crowding, and the trans-Zion trek being significantly impacted because of access limitations in the NW corner of the park, we honed in on Grand Staircase NM outside of Escalante.  I had seen some incredible photography from the area, and this seemed like a perfect opportunity to get over there and explore.
+Our initial target was Zion NP, but based on concerns about crowding, and the trans-Zion trek being significantly impacted because of access limitations in the northwest corner of the park, we honed in on Grand Staircase outside of Escalante.  I had seen some incredible photography from the area, and this seemed like a perfect opportunity to get over there and explore.
 
 
 Previous hiking Julian and I were familiar with included robust trail maps, clear trips reports, and easy to follow packing instructions.  This trip however, proved to be different.  Trail guidance is to simply follow the river, find your way through canyons, or follow some cairns.  We wanted to build a loop, and after staring at a topo map enough, I eventually figured out a potential route.

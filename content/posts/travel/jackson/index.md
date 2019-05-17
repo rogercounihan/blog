@@ -35,19 +35,19 @@ resources:
 
 ### Introduction
 
-After complaining enough about not getting a quick west coast ski trip in, Melissa offered to let me take a few days to myself in Jackson Hole prior to meeting with the family in Steamboat for our usual winter family ski trip.
+After complaining enough about not getting a quick west coast ski trip in, Melissa offered to let me take a few days to myself in Jackson Hole prior to meeting the family in Steamboat for our winter family trip.
 
 ### Arrival & Scouting
 
 I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started exploring.  Driving north into Grand Teton National Park, I scoped out Glacier View, Snake River View, and a couple other turnouts from the road.
 
-February 2019 set multiple snow records for Jackson, and the pulloffs required a climb up a four to six foot wall of snow and ice.  The clouds were also low, only exposing the first 800-1000 feet of the Teton mountain range, but gentle enough to provide some great soft light on the pillowy cliffs and misty trees over the Snake River.  
+February 2019 set multiple snow records for Jackson, and the getting out of the car at the pulloffs required a climb up a four to six foot wall of snow and ice.  The clouds were also low, only exposing the first 800-1000 feet of the Teton mountain range, but gentle enough to provide some great soft light on the rolling hills, cliffs, and misty trees over the Snake River.  
 
-In addition to the pull-offs, I drove far enough to see a heard of bison at the entrance to a ranch - the first bison I've seen those.  They are huge - and were close enough to me that I was a bit nervous of parking too close, and definitely didn't get out of the car.
+In addition to the pull-offs, I drove far enough to see a heard of bison at ranch gate - the first I've seen those.  They are huge - and were close enough to me that I was a bit nervous of parking too close, and definitely didn't get out of the car.
 
-I made a few attempts at walking off at a the pull-offs, but it was clearly snow-shoe conditions, as I sunk in the snow to my waist everytime I attempted to walk off the road.  I thought about finding a pair of snowshoes this trip, but the days were short and busy, and I didn't end up picking up a pair.
+I made a few attempts at walking off the road, but it was clearly snow-shoe conditions, as I sunk in the snow up to my waist everytime I attempted to get off the road.  I thought about finding a pair of snow-shoes this trip, but the days were short and busy, and I didn't end up picking up a pair.
 
-Later that evening, I went back and out explored the Gros-Ventre road.  A bit east of highway 192, and further from the mountains, this was more of an opportunity for wildlife and creative landscape shots.  I wasn't quite feeling my groove that first evening, but did spot a few places to explore in the future, and spotted two coyotes (I did think they were wolves at first).  The small town of Kelly (Wikipedia link for Kelly?) really surprised me most of all.
+Later that evening, I went back and out explored the Gros-Ventre road.  A bit east of highway 192, and further from the mountains, this was is a location for wildlife and simple, clean landscape shots.  I wasn't quite feeling my groove that first evening, but did spot a few places to explore in the future, and spotted two coyotes (I have to admit - I thought they were wolves at first).  The small town of Kelly (Wikipedia link for Kelly?) really surprised me most of all.
 
 I drove home in the dark, needing to get unpacked and get ready for a long first day of photography and riding.
 
@@ -91,19 +91,19 @@ After this successful morning, it was time for a great day on the slopes.  I aga
 
 #### Evening Day 2
 
-I did call it a day a bit early, as I was pretty drained from the early starts the past few days.  After a nap, it was back out on the road.  As it was my last chance with the long lens, I was committed to finding moose.
+I did call it a day a bit early, as I was pretty drained from the early starts the past few days.  After a nap, it was back out on the road exploring with the camera.  As it was my last chance with the long lens, I was committed to finding moose.
 
-And I did!  Nothing epic, but moose were in the trees, in the bushes, and by the river.  This was up the same road I had explored the previous evening.  Sunset was also a bit of a non-event after the mornings fireworks.  I attempted some full moon photography once the sun was fully down - testing the high - ISO capabilities of the D750.
+And I did!  Nothing epic, but moose were in the trees, in the bushes, and by the river.  This was up the same road I had explored the previous evening.  Sunset was also a bit of a non-event after the mornings firework's.  I attempted some full moon photography once the sun was fully down - testing the excellent  high ISO capabilities of the D750.
 
 ### Third Full Day - Tuesday
 
 #### Skiing
 
-OK - I skipped sunrise this morning.  I wanted a full day of skiing, and the early starts had taken it out of me.  I also needed to make a rental car switch for logistical purposes.
+I skipped sunrise - I wanted a full day of skiing, and the early starts had taken it out of me.  I also needed to make a rental car switch for logistical purposes.
 
-The skiing was great again.  Before lunch, I did a different side of the headwall, and rode all the way from top to bottom.  As I approached the base area, two moose jumped out of the trees, and ran down the trail.  Also, as a final hurrah after lunch, I found more fresh snow on the far north side of the mountain that I had not explored over the past few days.
+The skiing was again great.  Before lunch, I did a different chute from the headwall, and rode all the way from top to bottom.  As I approached the base area, two moose emerged from  the trees, and accompanied us down the trail.  Also, as a final hurrah after lunch, I found more fresh snow on the far north side of the mountain that I had not explored over the past few days.
 
 #### Evening Photos
 
-I headed off in a different direction, scouting out the road that I'd be driving out the following morning.  There were a number of pullouts, but they were plowed in and it was impossible to pull off the road.  I reached a snowmobile track, and tried to take some shots of a frozen river or a dramatic sunset, but didn't find anything.
+I headed off in a different direction, scouting out the road that I'd be driving out the following morning.  There were a number of pullouts, but they were plowed in and it was impossible to pull off the road.  I reached a snowmobile track, and tried to take some shots of a frozen river or a dramatic sunset, but didn't find anything.  Another day on Gros Ventre road would probably have been the better move.
 
