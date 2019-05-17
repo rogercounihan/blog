@@ -5,9 +5,33 @@ slug: ""
 draft: false
 categories: ["Travel", "Trip Report"]
 tags: ["Wyoming", "Skiing"]
----
 
-## Large Media Test
+featuredImage: "images/GrandTetonDay1-5.jpg"
+resources:
+- src: "images/GrandTetonDay1-1.jpg"
+  name: GrandTetonDay1-1
+- src: "images/GrandTetonDay1-2.jpg"
+  name: GrandTetonDay1-2
+- src: "images/GrandTetonDay1-3.jpg"
+  name: GrandTetonDay1-3
+- src: "images/GrandTetonDay1-4.jpg"
+  name: GrandTetonDay1-4
+- src: "images/GrandTetonDay1-5.jpg"
+  name: GrandTetonDay1-5
+- src: "images/GrandTetonDay1-6.jpg"
+  name: GrandTetonDay1-6
+- src: "images/GrandTetonDay1-7.jpg"
+  name: GrandTetonDay1-7
+- src: "images/GrandTetonDay1-8.jpg"
+  name: GrandTetonDay1-8
+- src: "images/GrandTetonDay1-9.jpg"
+  name: GrandTetonDay1-9
+- src: "images/GrandTetonDay1-10.jpg"
+  name: GrandTetonDay1-10
+- src: "images/GrandTetonDay1-11.jpg"
+  name: GrandTetonDay1-11
+
+---
 
 ### Introduction
 
@@ -15,17 +39,17 @@ After complaining enough about not getting a quick west coast ski trip in, Melis
 
 ### Arrival & Scouting
 
-I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started scouting locations.  Driving north into Grand Teton National Park, I scoped out Glacier View, Snake River View, and a couple other turnouts from the road.
+I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started exploring.  Driving north into Grand Teton National Park, I scoped out Glacier View, Snake River View, and a couple other turnouts from the road.
 
 February 2019 set multiple snow records for Jackson, and the pulloffs required a climb up a four to six foot wall of snow and ice.  The clouds were also low, only exposing the first 800-1000 feet of the Teton mountain range, but gentle enough to provide some great soft light on the pillowy cliffs and misty trees over the Snake River.  
 
-In addition to the pull-offs, I drove far enough to see a heard of bison at the entrance to a ranch - the first I've seen those.  They are huge - and were close enough to me that I was a bit nervous of parking too close, and definitely didn't get out of the car.
+In addition to the pull-offs, I drove far enough to see a heard of bison at the entrance to a ranch - the first bison I've seen those.  They are huge - and were close enough to me that I was a bit nervous of parking too close, and definitely didn't get out of the car.
 
-I made a few attempts at walking off a few of the pull-offs, but it was clearly snow-shoe conditions, as I sunk in the snow up to my waist everytime I attempted to get off the road.  I thought about finding a pair of snow-shoes this trip, but the days were short and busy, and I didn't end up picking up a pair.
+I made a few attempts at walking off at a the pull-offs, but it was clearly snow-shoe conditions, as I sunk in the snow to my waist everytime I attempted to walk off the road.  I thought about finding a pair of snowshoes this trip, but the days were short and busy, and I didn't end up picking up a pair.
 
-Later that evening, I went back and out explored the Gros-Ventre road.  A bit east of highway 192, and further from the mountains, this was more of a boone for wildlife and moody landscape shots.  I wasn't quite feeling my groove that first evening, but did spot a few places to explore in the future, and spotted two coyotes (I have to admit - I thought they were wolves at first).  The small town of Kelly (Wikipedia link for Kelly?) really surprised me most of all.
+Later that evening, I went back and out explored the Gros-Ventre road.  A bit east of highway 192, and further from the mountains, this was more of an opportunity for wildlife and creative landscape shots.  I wasn't quite feeling my groove that first evening, but did spot a few places to explore in the future, and spotted two coyotes (I did think they were wolves at first).  The small town of Kelly (Wikipedia link for Kelly?) really surprised me most of all.
 
-I drove home in the dark, needing to get unpacked and set up for a long first day of shooting and riding.
+I drove home in the dark, needing to get unpacked and get ready for a long first day of photography and riding.
 
 ### First Full Day - Sunday
 
