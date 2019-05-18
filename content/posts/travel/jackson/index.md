@@ -51,13 +51,44 @@ Later that evening, I went back and out explored the Gros-Ventre road.  A bit ea
 
 I drove home in the dark, needing to get unpacked and get ready for a long first day of photography and riding.
 
+<div class="lb image-grid" style="grid-template-columns: repeat(1, 1fr);">
+ <a href="images/GrandTetonDay1-1.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-1.jpg">
+</a>
+ <a href="images/GrandTetonDay1-2.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-2.jpg">
+</a>
+ <a href="images/GrandTetonDay1-3.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-3.jpg">
+</a>
+ <a href="images/GrandTetonDay1-4.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-4.jpg">
+</a>
+ <a href="images/GrandTetonDay1-5.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-5.jpg">
+</a>
+ <a href="images/GrandTetonDay1-6.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-6.jpg">
+</a>
+ <a href="images/GrandTetonDay1-7.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-7.jpg">
+</a>
+ <a href="images/GrandTetonDay1-8.jpg" data-lightbox="GrandTetonDay1" data-title="Grand Teton Day 1" class="lb">
+    <img src="images/GrandTetonDay1-8.jpg">
+</a>
+
+</div>
+
+
 ### First Full Day - Sunday
 
 #### Sunrise Attempt #1
 
-With a 5am wakeup, I had plenty of time for coffee and getting dressed.  I drove from my hotel near Jackson town square up to Glacier overlook.  I got there in the dark before sunrise, channeling every youtube photographer I follow, but it was obvious the mountains were fully shrouded that first morning.  With the temps hovering around -20F / (( ADD CELSIUS ))
+Waking up at 5am and sunrise at 6.15, I had coffee and got dressed.  I drove from my Jackson hotel up to the Glacier overlook.  I got there in the dark before sunrise, channeling every youtube photographer I follow, but it was obvious the mountains were fully shrouded in clouds and fog, and weren't going to be exposed that first morning.  With the temps hovering around -20F / -29C, I mostly sat in the car with the heat cranked.
 
-I headed back up Gros Ventrev road, looking for some scenery, and caught a bit of color as clouds hit an eastern hill, and a lonesome tree.  I recognized I needed to rent a longer lens so I could isolate further subjects, and added that to my list for later that day.
+Leaving the road along the Teton, I headed back up Gros Ventre road, looking for some scenery, and caught a bit of color as the sun lit an eastern hill, and a few solo trees.  I recognized I needed to rent a longer lens so I could isolate further subjects as well as wildlife, and added that to my list for later that day.
+
+// ADD DAY 2 MORNING PICTURES
 
 #### First Day of Riding
 
