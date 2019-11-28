@@ -18,4 +18,3 @@
         {{ $scratch.Add "thumb" "-thumb.jpg"}}   <!-- Make work with dynamic file types-->
         <a href="{{ $img.RelPermalink }}" data-lightbox="{{ $imggroup }}" data-title="{{ $grouptitle }}" class="lb"><img class="lb" src="{{ $scratch.Get "thumb" }}" alt="{{ $grouptitle }}" /></a>
     {{ end }}
-</div>  
