@@ -2,7 +2,7 @@
 title: "Coyote Gulch 3 Day Backpack"
 date: 2018-12-18
 slug: ""
-draft:false
+draft: true
 categories: ["Travel", "Trip Report"]
 tags: ["Utah", "Backpacking"]
 featuredImage: "img/Day2AM_8736.jpg"
