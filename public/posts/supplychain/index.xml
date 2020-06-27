@@ -2,29 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roger Counihan Blog</title>
-    <link>/posts/supplychain/</link>
+    <link>https://wizardly-albattani-107905.netlify.com/posts/supplychain/</link>
     <description>Recent content on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 22:17:31 -0500</lastBuildDate>
     
-	<atom:link href="/posts/supplychain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wizardly-albattani-107905.netlify.com/posts/supplychain/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>2018 Review</title>
-      <link>/posts/supplychain/2018review/</link>
-      <pubDate>Thu, 20 Dec 2018 22:17:31 -0500</pubDate>
-      
-      <guid>/posts/supplychain/2018review/</guid>
-      <description> 2018 in Review  Investment in software by solution providers
- Advanced soltuions to solve DC challenges
- Businesses defining where they want to play in a mature Amazon world
-  2019 Outlook  Next productivity jump driven by software functionality
- Clients leveraging a more complex network node structure
- Existing with Amazon
-  </description>
-    </item>
     
   </channel>
 </rss>

@@ -3,96 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/travel/jackson/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/supplychain/2018review/</loc>
-    <lastmod>2018-12-20T22:17:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/travel/coyotegulch/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+    <loc>https://wizardly-albattani-107905.netlify.com/about/</loc>
     <lastmod>2018-11-25T21:42:55-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/supplychain/</loc>
-    <lastmod>2018-12-20T22:17:31-05:00</lastmod>
+    <loc>https://wizardly-albattani-107905.netlify.com/posts/supplychain/</loc>
   </url>
   
   <url>
-    <loc>/posts/travel/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <loc>https://wizardly-albattani-107905.netlify.com/posts/travel/</loc>
   </url>
   
   <url>
-    <loc>/tags/backpacking/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <loc>https://wizardly-albattani-107905.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://wizardly-albattani-107905.netlify.com/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://wizardly-albattani-107905.netlify.com/</loc>
+    <lastmod>2018-11-25T21:42:55-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/skiing/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/supply-chain/</loc>
-    <lastmod>2018-12-20T22:17:31-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/travel/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/trip-report/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/utah/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/wyoming/</loc>
-    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <loc>https://wizardly-albattani-107905.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
