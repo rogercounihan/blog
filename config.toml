@@ -1,4 +1,4 @@
-baseURL = "http://wwww.rogercounihan.com/"
+baseURL = "http://www.rogercounihan.com/"
 languageCode = "en-us"
 title = "Roger Counihan Blog"
 theme = "hugo-theme-minos"

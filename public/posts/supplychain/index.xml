@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roger Counihan Blog</title>
-    <link>https://wizardly-albattani-107905.netlify.com/posts/supplychain/</link>
+    <link>http://www.rogercounihan.com/posts/supplychain/</link>
     <description>Recent content on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://wizardly-albattani-107905.netlify.com/posts/supplychain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.rogercounihan.com/posts/supplychain/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
