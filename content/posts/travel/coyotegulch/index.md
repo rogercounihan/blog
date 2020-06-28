@@ -62,7 +62,7 @@ We rented a small, basic  pickup.  It wasn't ideal for the 5 hours of highway we
 Knowing the sunset was early, we drove down the sand road at considerable speed, and rushed to the trailhead.  
 
 <figure align=center>
-{{< quickvideo video="approach" >}}
+{{/*< quickvideo video="approach" */}}
 </figure>
 
 After getting repacking quickly, we walked a mile down the trail onto the desert, and setup camp.  As complete darkness came down, we warmed up some dinner.  Darkness was short lived however, it was a very full moon and the moon-rise was dramatic.

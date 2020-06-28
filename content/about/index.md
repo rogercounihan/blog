@@ -9,15 +9,18 @@ resources:
 
 {{< imgproc imgname="portrait" width="600x">}}
 
-I live in Atlanta, am married to Melissa, and am raising Francis, Avery, and Chaser.
+I live in Atlanta, am married to Melissa, and am raising Francis, Avery, and Chase.
 #### Passions
 - Family
 - Travel
 - Sailing / anything on the water
 - Snowboarding
 - Technology
+
 #### Experience
 I have focussed my professional life at the intersection of technology and supply chain.
+
+#### Stops
 - CognitOps: 2020
 - Fortna: 2011-2020
 - Brightstar: 2009-2011
