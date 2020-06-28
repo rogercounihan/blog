@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roger Counihan Blog</title>
@@ -6,7 +6,6 @@
     <description>Recent content on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Nov 2018 21:42:55 -0500</lastBuildDate>
     
 	<atom:link href="https://wizardly-albattani-107905.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +13,12 @@
     <item>
       <title>About Roger</title>
       <link>https://wizardly-albattani-107905.netlify.com/about/</link>
-      <pubDate>Sun, 25 Nov 2018 21:42:55 -0500</pubDate>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wizardly-albattani-107905.netlify.com/about/</guid>
-      <description>I live in Atlanta, husband to Melissa, and father to Francis and Avery.
- Fortna: 2011-Present Brightstar: 2009-2011 Adjoined | Kanbay | Capgemini: 2006-2009 University of Virginia. MS, BS Systems and Information Engineering: 2001-2006 Wyomissing Area High School: 2000  </description>
+      <description> I live in Atlanta, am married to Melissa, and am raising Francis, Avery, and Chaser.
+Passions  Family Travel Sailing / anything on the water Snowboarding Technology  Experience I have focussed my professional life at the intersection of technology and supply chain.
+ CognitOps: 2020 Fortna: 2011-2020 Brightstar: 2009-2011 Adjoined | Kanbay | Capgemini: 2006-2009 University of Virginia. MS, BS Systems and Information Engineering: 2001-2006 Wyomissing Area High School: 2000  </description>
     </item>
     
   </channel>

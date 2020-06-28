@@ -2,7 +2,7 @@
     {{ $img := $.Page.Resources.GetMatch (.Get "imgname")}}
     {{ $imgwidth := .Get "width" }}
 
-    {{ $scaled := $img.Resize $imgwidth }}
+    {{/* $scaled := $img.Resize $imgwidth */}}
 
     <p style="text-align:center">
         <a href="{{ $img.Permalink }}" style="text-decoration:none">
