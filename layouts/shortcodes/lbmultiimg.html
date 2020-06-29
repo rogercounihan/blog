@@ -12,10 +12,10 @@
 
 <div class="lb image-grid" style="grid-template-columns: repeat({{ len $imgarray }}, 1fr); grid-gap: 5px; place-items: center; background-color: #111111">
     {{ range $img := $imgarray }}
-        {{ $scratch.Set "thumb" $pageurl }}
+        {{/* $scratch.Set "thumb" $pageurl }}
         {{ $scratch.Add "thumb" "/images/" }}
         {{ $scratch.Add "thumb" $img.Name }}
-        {{ $scratch.Add "thumb" "-thumb.jpg"}}   <!-- Make work with dynamic file types-->
+        {{ $scratch.Add "thumb" "-thumb.jpg" */}}   <!-- Make work with dynamic file types-->
         <a href="{{ $img.RelPermalink }}" data-lightbox="{{ $imggroup }}" data-title="{{ $grouptitle }}" class="lb">
             <img class="lb" src="{{ $img.RelPermalink }}" alt="{{ $grouptitle }}" />
         </a>

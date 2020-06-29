@@ -31,6 +31,12 @@ resources:
   name: Day1PM_8726
 - src: images/Day1PM_2666.jpg
   name: Day1PM_2666
+- src: images/DSC_8766.jpg
+  name: SandyDescent1
+- src: images/DSC_8778.jpg
+  name: CIW_8778
+- src: images/IMG_2679.jpg
+  name: SandyDescent3
 - src: video/approach.mp4
   name: approach
 
@@ -62,7 +68,7 @@ We rented a small, basic  pickup.  It wasn't ideal for the 5 hours of highway we
 Knowing the sunset was early, we drove down the sand road at considerable speed, and rushed to the trailhead.  
 
 <figure align=center>
-{{/*< quickvideo video="approach" */}}
+{{< quickvideo video="approach" >}}
 </figure>
 
 After getting repacking quickly, we walked a mile down the trail onto the desert, and setup camp.  As complete darkness came down, we warmed up some dinner.  Darkness was short lived however, it was a very full moon and the moon-rise was dramatic.
@@ -77,23 +83,23 @@ While Julian slept in on Friday morning, I attempted to take some sunrise pictur
 
 We boiled up some coffee, and headed to find the "Crack-In-The-Wall" descent into the Escalante River canyon. Walking up to the edge was intimidating, but getting down was a simply shimmy behind a rock wall, and lowering the packs down the side.  The view of the canyon was incredible though, and gave us our first idea of the scenery we were in for while we hiked.
 
-{{< lbmultiimg imggroup="CIW" title="Tent Image" centered="no" width="200px">}}
+{{< lbmultiimg imggroup="CIW" title="Crack In The Wall" centered="no" width="200px">}}
 
 Beyond Crack-In-The-Wall, it was a sandy descent.  We forked to the north to get the exit of Coyote Gulch onto the Escalante river.  At the bottom of Coyote Gulch, we headed East.  Our original plan was to find the Escalante river, head north, then make a loop by climbing up over King Mesa to the start of Coyote Gulch.
 
-{DESCENT TO THE RIVER}
+{{< lbmultiimg imggroup="SandyDescent" title="Sandy Descent" centered="no" width="200px">}}
 
 We had to adapt, as we were unable to navigate the river or find any trail from Coyote Gulch to the confluence with the Escalante.  Other references seemed to show a route crossing the Escalante, but it may have been by a different route from Crack in the Wall directly to the Escalante river. 
 
-### Day 2 Coyote Gulch: Escalante River to XX Side Canyon
+### Day 2 Coyote Gulch: Escalante River to Sleepy Hollow Side Canyon
 
 After a replanning session, we headed west, up Coyote Gulch.  Once that decision was made, the hike was simple - follow the river.  Most of the time there is a primitive trail along the river, but 30%-40% of the time we were hiking directly in the river.
 
-And the hiking was incredible.  500 foot sheer red walls on either side, often hanging over us.  The canyon floor was a third of that, making for a very up-close and direct experience.  The bottom of the canyon was lush, with grasses, trees, and flowers.  
+And the hiking was incredible.  500 foot sheer red walls on either side, often hanging over us.  The canyon floor was much narrower then the walls, making for a very up-close and direct experience.  The bottom of the canyon was lush, with grasses, trees, and flowers.  
 
 {{< lbmultiimg imggroup="Day2Hike" title="Tent Image" centered="no" width="200px">}}
 
-From where we started walking up the Escalante River, until reaching Hamblin Arch, it was about a three hour walk up the river.  Shortly before reaching the arch, we   
+From where we started walking up the Escalante River, until reaching Hamblin Arch, it was about a three hour walk up the river.  Shortly before reaching the arch, we stopped and grabeed lunch.  We passed through Coyote Natural Bridge, the Swiss Cheese Water falls, and then got to the Hamblin Arch.  It was very impressive.  From the arch we continued our way up the river, either straight in the middle of the stream or on muddy trails on either side, until we found a campsite at the base of the Sleepy Hollow Side Canyon, which we planned on exploring heading up the next day.   
 
 {{< lbmultiimg imggroup="Day2Camp" title="Tent Image" centered="no" width="200px">}}
 
