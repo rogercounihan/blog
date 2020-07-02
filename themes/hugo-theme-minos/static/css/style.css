@@ -118,8 +118,11 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .outer {
-  max-width: 800px;
-  margin: 0 auto;
+  max-width:1200px;
+  margin-left:50px;
+  margin-right:20px;
+  margin-top:0;
+  margin-bottom:0;
 }
 .outer:before,
 .outer:after {
@@ -683,7 +686,7 @@ a.article-title:hover,
   top: 110px;
   font-size: 0.9em;
   width: 260px;
-  margin-left: 400px;
+  margin-left: 450px;
   padding-left: 20px;
   overflow-y: auto;
   line-height: 1.4em;

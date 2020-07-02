@@ -10,7 +10,7 @@
 {{ $imgarray := $.Page.Resources.Match ($scratch.Get "imggroup") }}
 {{ $pageurl := .Page.RelPermalink }}
 
-<div class="lb image-grid" style="grid-template-columns: repeat({{ len $imgarray }}, 1fr); grid-gap: 5px; place-items: center; background-color: #111111">
+<div class="lb image-grid" style="grid-template-columns: repeat({{ len $imgarray }}, 1fr); grid-gap: 5px; place-items: center; background-color: #707070">
     {{ range $img := $imgarray }}
         {{/* $scratch.Set "thumb" $pageurl }}
         {{ $scratch.Add "thumb" "/images/" }}
