@@ -1,49 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Roger Counihan Blog</title>
-    <link>/tags/</link>
+    <link>https://www.rogercounihan.com/tags/</link>
     <description>Recent content in Tags on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rogercounihan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Georgia</title>
+      <link>https://www.rogercounihan.com/tags/georgia/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/tags/georgia/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Backpacking</title>
-      <link>/tags/backpacking/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Nottely</title>
+      <link>https://www.rogercounihan.com/tags/nottely/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/backpacking/</guid>
+      <guid>https://www.rogercounihan.com/tags/nottely/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skiing</title>
-      <link>/tags/skiing/</link>
+      <link>https://www.rogercounihan.com/tags/skiing/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/skiing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Utah</title>
-      <link>/tags/utah/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/utah/</guid>
+      <guid>https://www.rogercounihan.com/tags/skiing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wyoming</title>
-      <link>/tags/wyoming/</link>
+      <link>https://www.rogercounihan.com/tags/wyoming/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/wyoming/</guid>
+      <guid>https://www.rogercounihan.com/tags/wyoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backpacking</title>
+      <link>https://www.rogercounihan.com/tags/backpacking/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/tags/backpacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utah</title>
+      <link>https://www.rogercounihan.com/tags/utah/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/tags/utah/</guid>
       <description></description>
     </item>
     

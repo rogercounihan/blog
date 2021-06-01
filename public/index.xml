@@ -1,59 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roger Counihan Blog</title>
-    <link>/</link>
+    <link>https://www.rogercounihan.com/</link>
     <description>Recent content on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rogercounihan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November Trips to Nottely Cottage</title>
+      <link>https://www.rogercounihan.com/posts/2020/nottely/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/posts/2020/nottely/</guid>
+      <description>We closed on a new cottage on Lake Nottely in North Georgia two weeks ago, and have started to spend our spare weekend time up there.
+It is a very small cottage, with a beautiful view of a mountain and the water. It has multiple balconies and patios which we will likely spend a significant amount of our time on. The inside is currently fairly dark, with the exception of the master bedroom.</description>
+    </item>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Roger</title>
+      <link>https://www.rogercounihan.com/about/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/about/</guid>
+      <description>   I live in Atlanta, am married to Melissa, and am raising Francis, Avery, and Chase.
+Passions  Family Travel Sailing / anything on the water Snowboarding Technology  Experience I have focussed my professional life at the intersection of technology and supply chain.
+Stops  CognitOps: 2020 Fortna: 2011-2020 Brightstar: 2009-2011 Adjoined | Kanbay | Capgemini: 2006-2009 University of Virginia. MS, BS Systems and Information Engineering: 2001-2006 Wyomissing Area High School: 2000  </description>
+    </item>
     
+    <item>
+      <title>Paris</title>
+      <link>https://www.rogercounihan.com/posts/travel/paris/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/posts/travel/paris/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jackson Hole Photography &amp; Snowboarding</title>
-      <link>/posts/travel/jackson/</link>
+      <link>https://www.rogercounihan.com/posts/travel/jackson/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/travel/jackson/</guid>
-      <description>Introduction After complaining enough about not getting a quick west coast ski trip in, Melissa offered to let me take a few days to myself in Jackson Hole prior to meeting with the family in Steamboat for our usual winter family ski trip.
-Arrival &amp;amp; Scouting I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started scouting locations.</description>
+      <guid>https://www.rogercounihan.com/posts/travel/jackson/</guid>
+      <description>Introduction After complaining enough about not getting a quick west coast ski trip in, Melissa offered to let me take a few days to myself in Jackson Hole prior to meeting the family in Steamboat for our winter family trip.
+Arrival &amp;amp; Scouting I arrived at Jackson Hole airport around midday, and after somehow losing my luggage at the worlds smallest airport, jumped in the rental car and started exploring. Driving north into Grand Teton National Park, I scoped out Glacier View, Snake River View, and a couple other turnouts from the road.</description>
     </item>
     
     <item>
       <title>2018 Review</title>
-      <link>/posts/supplychain/2018review/</link>
+      <link>https://www.rogercounihan.com/posts/supplychain/2018review/</link>
       <pubDate>Thu, 20 Dec 2018 22:17:31 -0500</pubDate>
       
-      <guid>/posts/supplychain/2018review/</guid>
-      <description> 2018 in Review  Investment in software by solution providers
- Advanced soltuions to solve DC challenges
- Businesses defining where they want to play in a mature Amazon world
-  2019 Outlook  Next productivity jump driven by software functionality
- Clients leveraging a more complex network node structure
- Existing with Amazon
+      <guid>https://www.rogercounihan.com/posts/supplychain/2018review/</guid>
+      <description>2018 in Review   Investment in software by solution providers
+  Advanced soltuions to solve DC challenges
+  Businesses defining where they want to play in a mature Amazon world
+  2019 Outlook   Next productivity jump driven by software functionality
+  Clients leveraging a more complex network node structure
+  Existing with Amazon
   </description>
     </item>
     
     <item>
       <title>Coyote Gulch 3 Day Backpack</title>
-      <link>/posts/travel/coyotegulch/</link>
+      <link>https://www.rogercounihan.com/posts/travel/coyotegulch/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/travel/coyotegulch/</guid>
-      <description>Introduction In October 2018, my brother Julian Counihan and I did a quick 3 day hike in Coyote Gulch, within the Grand Staircase National Monument, outside Escalante, UT. Building a trip plan, developing and finding a route, was all incredibly complicated, so I wanted to put forth a bit of a trip log, and use it as an excuse to display my photographs.
-My friends in Atlanta had introduced me to the concept of a ‘Dadchelor’ party - celebrating the end of free time and flexibility that comes with new responsibilities of a newborn.</description>
+      <guid>https://www.rogercounihan.com/posts/travel/coyotegulch/</guid>
+      <description>Introduction In October 2018, my brother and I did a quick three day hike in Coyote Gulch, within the Grand Staircase National Monument, outside Escalante, UT. Julian’s son’s due date was November 28th, so we were barely getting this trip in.
+Our initial target was Zion NP, but based on concerns about crowding, and the trans-Zion trek being significantly impacted because of access limitations in the northwest corner of the park, we honed in on Grand Staircase outside of Escalante.</description>
     </item>
     
     <item>
-      <title>About Roger</title>
-      <link>/about/</link>
-      <pubDate>Sun, 25 Nov 2018 21:42:55 -0500</pubDate>
+      <title></title>
+      <link>https://www.rogercounihan.com/posts/supplychain/promat2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>I live in Atlanta, husband to Melissa, and father to Francis and Avery.
- Fortna: 2011-Present Brightstar: 2009-2011 Adjoined | Kanbay | Capgemini: 2006-2009 University of Virginia. MS, BS Systems and Information Engineering: 2001-2006 Wyomissing Area High School: 2000  </description>
+      <guid>https://www.rogercounihan.com/posts/supplychain/promat2019/</guid>
+      <description>ProMat GTP Bots Software Automate Different feel / culture Arms / Grippers Humanoid Robots Robotic Sortation </description>
     </item>
     
   </channel>

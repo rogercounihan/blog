@@ -1,28 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supply Chain on Roger Counihan Blog</title>
-    <link>/categories/supply-chain/</link>
+    <link>https://www.rogercounihan.com/categories/supply-chain/</link>
     <description>Recent content in Supply Chain on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 22:17:31 -0500</lastBuildDate>
-    
-	<atom:link href="/categories/supply-chain/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 20 Dec 2018 22:17:31 -0500</lastBuildDate><atom:link href="https://www.rogercounihan.com/categories/supply-chain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2018 Review</title>
-      <link>/posts/supplychain/2018review/</link>
+      <link>https://www.rogercounihan.com/posts/supplychain/2018review/</link>
       <pubDate>Thu, 20 Dec 2018 22:17:31 -0500</pubDate>
       
-      <guid>/posts/supplychain/2018review/</guid>
-      <description> 2018 in Review  Investment in software by solution providers
- Advanced soltuions to solve DC challenges
- Businesses defining where they want to play in a mature Amazon world
-  2019 Outlook  Next productivity jump driven by software functionality
- Clients leveraging a more complex network node structure
- Existing with Amazon
+      <guid>https://www.rogercounihan.com/posts/supplychain/2018review/</guid>
+      <description>2018 in Review   Investment in software by solution providers
+  Advanced soltuions to solve DC challenges
+  Businesses defining where they want to play in a mature Amazon world
+  2019 Outlook   Next productivity jump driven by software functionality
+  Clients leveraging a more complex network node structure
+  Existing with Amazon
   </description>
     </item>
     

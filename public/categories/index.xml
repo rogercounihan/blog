@@ -1,39 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Roger Counihan Blog</title>
-    <link>/categories/</link>
+    <link>https://www.rogercounihan.com/categories/</link>
     <description>Recent content in Categories on Roger Counihan Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rogercounihan.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020</title>
+      <link>https://www.rogercounihan.com/categories/2020/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rogercounihan.com/categories/2020/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Supply Chain</title>
-      <link>/categories/supply-chain/</link>
-      <pubDate>Thu, 20 Dec 2018 22:17:31 -0500</pubDate>
+      <title>Weekend Update</title>
+      <link>https://www.rogercounihan.com/categories/weekend-update/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/supply-chain/</guid>
+      <guid>https://www.rogercounihan.com/categories/weekend-update/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>/categories/travel/</link>
+      <link>https://www.rogercounihan.com/categories/travel/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/travel/</guid>
+      <guid>https://www.rogercounihan.com/categories/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trip Report</title>
-      <link>/categories/trip-report/</link>
+      <link>https://www.rogercounihan.com/categories/trip-report/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/trip-report/</guid>
+      <guid>https://www.rogercounihan.com/categories/trip-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supply Chain</title>
+      <link>https://www.rogercounihan.com/categories/supply-chain/</link>
+      <pubDate>Thu, 20 Dec 2018 22:17:31 -0500</pubDate>
+      
+      <guid>https://www.rogercounihan.com/categories/supply-chain/</guid>
       <description></description>
     </item>
     
